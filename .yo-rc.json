@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.0.2",
+    "applicationType": "microservice",
+    "baseName": "notification",
+    "packageName": "com.mycompany.store",
+    "packageFolder": "com/mycompany/store",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "d753cb0b848bcef38e6528ea35db47f80b6bca46",
+    "enableTranslation": true,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "yarn",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "pt-br"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
